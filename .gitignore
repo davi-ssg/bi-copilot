@@ -1,0 +1,5 @@
+.env
+empresa.db
+__pycache__/
+*.pyc
+.vscode/

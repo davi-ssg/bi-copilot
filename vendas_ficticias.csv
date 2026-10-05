@@ -1,0 +1,201 @@
+﻿id_venda,data_venda,cliente,cidade,categoria,produto,quantidade,valor_unitario,valor_total,status
+1001,2026-05-19,Rodrigo Alves,Brasília,Acessórios,Teclado Mecânico,4,350.0,1400.0,Concluído
+1002,2026-01-03,Juliana Mendes,Salvador,Vestuário,Camiseta Tech,4,80.0,320.0,Concluído
+1003,2026-09-17,Lucas Silva,Brasília,Eletrônicos,Tablet Air,3,2200.0,6600.0,Pendente
+1004,2026-05-06,Pedro Santos,Rio de Janeiro,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Pendente
+1005,2026-06-21,Rafael Costa,Belo Horizonte,Vestuário,Camiseta Tech,4,80.0,320.0,Concluído
+1006,2026-08-16,Aline Barbosa,Belo Horizonte,Vestuário,Tênis Confort,1,290.0,290.0,Cancelado
+1007,2026-08-04,Rafael Costa,Curitiba,Acessórios,Headset Gamer,5,400.0,2000.0,Concluído
+1008,2026-09-07,Gabriel Souza,Belo Horizonte,Móveis,Luminária LED,1,150.0,150.0,Concluído
+1009,2026-07-08,Mariana Oliveira,São Paulo,Acessórios,Mouse Sem Fio,1,120.0,120.0,Concluído
+1010,2026-01-09,Fernanda Rocha,Belo Horizonte,Móveis,Cadeira Ergonômica,1,1100.0,1100.0,Cancelado
+1011,2026-06-17,Aline Barbosa,São Paulo,Eletrônicos,Smartphone X,3,2800.0,8400.0,Pendente
+1012,2026-05-06,Thiago Ribeiro,Brasília,Móveis,Mesa Stand-Desk,5,1800.0,9000.0,Concluído
+1013,2026-08-10,Beatriz Lima,Salvador,Vestuário,Tênis Confort,2,290.0,580.0,Pendente
+1014,2026-08-14,Gabriel Souza,Brasília,Acessórios,Teclado Mecânico,5,350.0,1750.0,Pendente
+1015,2026-01-31,Fernanda Rocha,São Paulo,Eletrônicos,Smartphone X,2,2800.0,5600.0,Concluído
+1016,2026-02-22,Thiago Ribeiro,Porto Alegre,Vestuário,Jaqueta Impermeável,2,350.0,700.0,Pendente
+1017,2026-07-14,Lucas Silva,São Paulo,Acessórios,Mouse Sem Fio,3,120.0,360.0,Concluído
+1018,2026-06-21,Pedro Santos,Rio de Janeiro,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Concluído
+1019,2026-05-19,Mariana Oliveira,Salvador,Acessórios,Teclado Mecânico,5,350.0,1750.0,Cancelado
+1020,2026-02-25,Rafael Costa,São Paulo,Vestuário,Tênis Confort,2,290.0,580.0,Concluído
+1021,2026-08-20,Aline Barbosa,Curitiba,Acessórios,Headset Gamer,1,400.0,400.0,Pendente
+1022,2026-08-31,Gabriel Souza,Rio de Janeiro,Móveis,Cadeira Ergonômica,2,1100.0,2200.0,Concluído
+1023,2026-06-15,Pedro Santos,Curitiba,Vestuário,Jaqueta Impermeável,2,350.0,700.0,Concluído
+1024,2026-05-28,Rodrigo Alves,Porto Alegre,Eletrônicos,Notebook Pro,4,4500.0,18000.0,Concluído
+1025,2026-07-08,Gabriel Souza,Belo Horizonte,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Concluído
+1026,2026-06-22,Thiago Ribeiro,Curitiba,Acessórios,Headset Gamer,2,400.0,800.0,Concluído
+1027,2026-03-06,Rodrigo Alves,Belo Horizonte,Móveis,Cadeira Ergonômica,4,1100.0,4400.0,Concluído
+1028,2026-03-09,Thiago Ribeiro,São Paulo,Eletrônicos,Notebook Pro,1,4500.0,4500.0,Cancelado
+1029,2026-06-09,Mariana Oliveira,Brasília,Acessórios,Headset Gamer,2,400.0,800.0,Concluído
+1030,2026-05-08,Lucas Silva,Brasília,Móveis,Luminária LED,4,150.0,600.0,Concluído
+1031,2026-01-31,Gabriel Souza,Curitiba,Acessórios,Headset Gamer,1,400.0,400.0,Concluído
+1032,2026-07-24,Camila Martins,Porto Alegre,Eletrônicos,Notebook Pro,5,4500.0,22500.0,Cancelado
+1033,2026-03-02,Rafael Costa,Curitiba,Vestuário,Jaqueta Impermeável,5,350.0,1750.0,Pendente
+1034,2026-02-16,Pedro Santos,São Paulo,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Concluído
+1035,2026-07-19,Mariana Oliveira,Porto Alegre,Vestuário,Camiseta Tech,2,80.0,160.0,Concluído
+1036,2026-04-03,Rafael Costa,São Paulo,Móveis,Mesa Stand-Desk,4,1800.0,7200.0,Pendente
+1037,2026-07-17,Aline Barbosa,Belo Horizonte,Vestuário,Tênis Confort,5,290.0,1450.0,Pendente
+1038,2026-02-25,Beatriz Lima,Rio de Janeiro,Eletrônicos,Notebook Pro,4,4500.0,18000.0,Concluído
+1039,2026-08-22,Pedro Santos,Porto Alegre,Eletrônicos,Notebook Pro,2,4500.0,9000.0,Pendente
+1040,2026-04-02,Mariana Oliveira,Porto Alegre,Eletrônicos,Tablet Air,3,2200.0,6600.0,Pendente
+1041,2026-06-22,Gabriel Souza,Curitiba,Vestuário,Jaqueta Impermeável,2,350.0,700.0,Pendente
+1042,2026-09-11,Gabriel Souza,Belo Horizonte,Acessórios,Headset Gamer,2,400.0,800.0,Concluído
+1043,2026-08-18,Mariana Oliveira,Porto Alegre,Móveis,Cadeira Ergonômica,2,1100.0,2200.0,Concluído
+1044,2026-08-01,Thiago Ribeiro,Rio de Janeiro,Móveis,Luminária LED,2,150.0,300.0,Pendente
+1045,2026-01-03,Lucas Silva,Belo Horizonte,Eletrônicos,Monitor 27,4,1500.0,6000.0,Pendente
+1046,2026-05-21,Pedro Santos,Brasília,Acessórios,Headset Gamer,5,400.0,2000.0,Concluído
+1047,2026-06-06,Aline Barbosa,Salvador,Vestuário,Jaqueta Impermeável,3,350.0,1050.0,Pendente
+1048,2026-08-17,Rafael Costa,Salvador,Móveis,Cadeira Ergonômica,2,1100.0,2200.0,Pendente
+1049,2026-02-09,Thiago Ribeiro,Salvador,Eletrônicos,Smartphone X,5,2800.0,14000.0,Concluído
+1050,2026-07-05,Juliana Mendes,Salvador,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Concluído
+1051,2026-07-17,Fernanda Rocha,Curitiba,Vestuário,Jaqueta Impermeável,4,350.0,1400.0,Pendente
+1052,2026-01-02,Juliana Mendes,Brasília,Acessórios,Mouse Sem Fio,4,120.0,480.0,Pendente
+1053,2026-04-02,Juliana Mendes,Porto Alegre,Vestuário,Tênis Confort,2,290.0,580.0,Concluído
+1054,2026-01-08,Beatriz Lima,Brasília,Eletrônicos,Monitor 27,4,1500.0,6000.0,Pendente
+1055,2026-02-18,Rodrigo Alves,Porto Alegre,Eletrônicos,Tablet Air,2,2200.0,4400.0,Concluído
+1056,2026-07-07,Camila Martins,Belo Horizonte,Acessórios,Headset Gamer,1,400.0,400.0,Concluído
+1057,2026-03-07,Pedro Santos,São Paulo,Vestuário,Tênis Confort,4,290.0,1160.0,Concluído
+1058,2026-06-20,Beatriz Lima,Brasília,Eletrônicos,Notebook Pro,5,4500.0,22500.0,Pendente
+1059,2026-02-10,Rafael Costa,Belo Horizonte,Vestuário,Tênis Confort,3,290.0,870.0,Concluído
+1060,2026-05-23,Gabriel Souza,Belo Horizonte,Eletrônicos,Notebook Pro,4,4500.0,18000.0,Concluído
+1061,2026-02-13,Rafael Costa,Salvador,Eletrônicos,Notebook Pro,3,4500.0,13500.0,Concluído
+1062,2026-06-06,Aline Barbosa,Brasília,Acessórios,Carregador Fast,1,90.0,90.0,Pendente
+1063,2026-03-29,Rafael Costa,Porto Alegre,Vestuário,Camiseta Tech,5,80.0,400.0,Concluído
+1064,2026-07-04,Rodrigo Alves,São Paulo,Eletrônicos,Smartphone X,3,2800.0,8400.0,Cancelado
+1065,2026-02-10,Rafael Costa,Brasília,Eletrônicos,Smartphone X,1,2800.0,2800.0,Concluído
+1066,2026-08-22,Rafael Costa,São Paulo,Acessórios,Carregador Fast,4,90.0,360.0,Concluído
+1067,2026-08-19,Rafael Costa,Curitiba,Acessórios,Mouse Sem Fio,1,120.0,120.0,Concluído
+1068,2026-04-11,Thiago Ribeiro,Porto Alegre,Móveis,Mesa Stand-Desk,4,1800.0,7200.0,Concluído
+1069,2026-02-16,Camila Martins,Brasília,Vestuário,Camiseta Tech,5,80.0,400.0,Pendente
+1070,2026-06-28,Mariana Oliveira,Salvador,Eletrônicos,Monitor 27,3,1500.0,4500.0,Concluído
+1071,2026-03-19,Gabriel Souza,São Paulo,Vestuário,Tênis Confort,1,290.0,290.0,Concluído
+1072,2026-04-02,Beatriz Lima,Curitiba,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Cancelado
+1073,2026-05-03,Beatriz Lima,Belo Horizonte,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Pendente
+1074,2026-07-11,Aline Barbosa,São Paulo,Eletrônicos,Tablet Air,5,2200.0,11000.0,Concluído
+1075,2026-01-03,Mariana Oliveira,Belo Horizonte,Acessórios,Carregador Fast,2,90.0,180.0,Concluído
+1076,2026-01-18,Thiago Ribeiro,Belo Horizonte,Eletrônicos,Monitor 27,2,1500.0,3000.0,Concluído
+1077,2026-05-14,Fernanda Rocha,Salvador,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Concluído
+1078,2026-07-16,Aline Barbosa,Rio de Janeiro,Móveis,Mesa Stand-Desk,1,1800.0,1800.0,Concluído
+1079,2026-01-23,Rodrigo Alves,Porto Alegre,Móveis,Cadeira Ergonômica,3,1100.0,3300.0,Concluído
+1080,2026-06-23,Camila Martins,São Paulo,Vestuário,Tênis Confort,2,290.0,580.0,Cancelado
+1081,2026-07-27,Rodrigo Alves,Brasília,Vestuário,Camiseta Tech,5,80.0,400.0,Concluído
+1082,2026-03-13,Fernanda Rocha,Belo Horizonte,Eletrônicos,Tablet Air,2,2200.0,4400.0,Concluído
+1083,2026-08-26,Aline Barbosa,São Paulo,Acessórios,Mouse Sem Fio,2,120.0,240.0,Cancelado
+1084,2026-03-16,Pedro Santos,Belo Horizonte,Móveis,Cadeira Ergonômica,3,1100.0,3300.0,Concluído
+1085,2026-09-15,Rafael Costa,Salvador,Eletrônicos,Notebook Pro,5,4500.0,22500.0,Cancelado
+1086,2026-03-23,Gabriel Souza,Curitiba,Acessórios,Mouse Sem Fio,3,120.0,360.0,Concluído
+1087,2026-07-17,Aline Barbosa,Brasília,Vestuário,Camiseta Tech,3,80.0,240.0,Concluído
+1088,2026-07-28,Gabriel Souza,Brasília,Móveis,Luminária LED,5,150.0,750.0,Pendente
+1089,2026-05-22,Lucas Silva,Brasília,Móveis,Luminária LED,4,150.0,600.0,Concluído
+1090,2026-03-13,Rodrigo Alves,Brasília,Acessórios,Headset Gamer,1,400.0,400.0,Pendente
+1091,2026-04-20,Mariana Oliveira,Porto Alegre,Móveis,Luminária LED,5,150.0,750.0,Concluído
+1092,2026-09-10,Fernanda Rocha,Curitiba,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Concluído
+1093,2026-07-23,Beatriz Lima,Salvador,Eletrônicos,Monitor 27,1,1500.0,1500.0,Concluído
+1094,2026-04-09,Camila Martins,Salvador,Eletrônicos,Notebook Pro,3,4500.0,13500.0,Concluído
+1095,2026-06-02,Rodrigo Alves,Brasília,Vestuário,Jaqueta Impermeável,4,350.0,1400.0,Pendente
+1096,2026-06-18,Thiago Ribeiro,Belo Horizonte,Eletrônicos,Notebook Pro,3,4500.0,13500.0,Concluído
+1097,2026-08-07,Lucas Silva,Curitiba,Eletrônicos,Notebook Pro,1,4500.0,4500.0,Concluído
+1098,2026-02-06,Camila Martins,Salvador,Eletrônicos,Tablet Air,2,2200.0,4400.0,Pendente
+1099,2026-06-21,Camila Martins,Salvador,Vestuário,Camiseta Tech,2,80.0,160.0,Pendente
+1100,2026-03-22,Lucas Silva,Curitiba,Eletrônicos,Notebook Pro,4,4500.0,18000.0,Pendente
+1101,2026-07-14,Beatriz Lima,Curitiba,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Cancelado
+1102,2026-03-13,Juliana Mendes,Salvador,Vestuário,Jaqueta Impermeável,1,350.0,350.0,Cancelado
+1103,2026-03-11,Lucas Silva,Brasília,Móveis,Cadeira Ergonômica,2,1100.0,2200.0,Concluído
+1104,2026-03-31,Aline Barbosa,Curitiba,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Cancelado
+1105,2026-03-01,Camila Martins,São Paulo,Eletrônicos,Tablet Air,3,2200.0,6600.0,Concluído
+1106,2026-03-07,Fernanda Rocha,Curitiba,Móveis,Cadeira Ergonômica,3,1100.0,3300.0,Concluído
+1107,2026-07-06,Thiago Ribeiro,Salvador,Acessórios,Headset Gamer,5,400.0,2000.0,Cancelado
+1108,2026-01-23,Thiago Ribeiro,Belo Horizonte,Eletrônicos,Tablet Air,4,2200.0,8800.0,Cancelado
+1109,2026-05-20,Beatriz Lima,São Paulo,Vestuário,Camiseta Tech,3,80.0,240.0,Cancelado
+1110,2026-04-15,Pedro Santos,Curitiba,Móveis,Mesa Stand-Desk,1,1800.0,1800.0,Concluído
+1111,2026-06-17,Beatriz Lima,São Paulo,Acessórios,Headset Gamer,3,400.0,1200.0,Concluído
+1112,2026-06-05,Mariana Oliveira,Salvador,Móveis,Cadeira Ergonômica,4,1100.0,4400.0,Concluído
+1113,2026-08-19,Thiago Ribeiro,Brasília,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Concluído
+1114,2026-09-11,Gabriel Souza,São Paulo,Acessórios,Carregador Fast,4,90.0,360.0,Cancelado
+1115,2026-04-26,Juliana Mendes,Porto Alegre,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Pendente
+1116,2026-05-15,Fernanda Rocha,Rio de Janeiro,Vestuário,Tênis Confort,1,290.0,290.0,Concluído
+1117,2026-08-04,Beatriz Lima,Belo Horizonte,Acessórios,Carregador Fast,1,90.0,90.0,Cancelado
+1118,2026-02-26,Gabriel Souza,Curitiba,Móveis,Cadeira Ergonômica,5,1100.0,5500.0,Pendente
+1119,2026-05-06,Rafael Costa,Belo Horizonte,Vestuário,Tênis Confort,3,290.0,870.0,Cancelado
+1120,2026-03-09,Pedro Santos,Brasília,Acessórios,Carregador Fast,3,90.0,270.0,Cancelado
+1121,2026-08-14,Juliana Mendes,Rio de Janeiro,Vestuário,Jaqueta Impermeável,5,350.0,1750.0,Cancelado
+1122,2026-04-14,Rodrigo Alves,Salvador,Vestuário,Jaqueta Impermeável,3,350.0,1050.0,Pendente
+1123,2026-01-23,Camila Martins,Rio de Janeiro,Móveis,Mesa Stand-Desk,1,1800.0,1800.0,Cancelado
+1124,2026-01-16,Fernanda Rocha,Brasília,Móveis,Luminária LED,2,150.0,300.0,Concluído
+1125,2026-05-21,Thiago Ribeiro,Salvador,Acessórios,Teclado Mecânico,2,350.0,700.0,Pendente
+1126,2026-04-21,Camila Martins,Rio de Janeiro,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Pendente
+1127,2026-05-04,Rodrigo Alves,Rio de Janeiro,Acessórios,Mouse Sem Fio,4,120.0,480.0,Concluído
+1128,2026-06-09,Gabriel Souza,Rio de Janeiro,Acessórios,Teclado Mecânico,5,350.0,1750.0,Cancelado
+1129,2026-05-20,Aline Barbosa,Salvador,Eletrônicos,Smartphone X,2,2800.0,5600.0,Pendente
+1130,2026-03-16,Mariana Oliveira,Curitiba,Móveis,Luminária LED,2,150.0,300.0,Concluído
+1131,2026-02-28,Beatriz Lima,Rio de Janeiro,Vestuário,Camiseta Tech,4,80.0,320.0,Concluído
+1132,2026-06-22,Mariana Oliveira,São Paulo,Eletrônicos,Monitor 27,5,1500.0,7500.0,Concluído
+1133,2026-04-30,Lucas Silva,São Paulo,Acessórios,Carregador Fast,2,90.0,180.0,Cancelado
+1134,2026-07-04,Camila Martins,Porto Alegre,Acessórios,Headset Gamer,4,400.0,1600.0,Concluído
+1135,2026-02-15,Aline Barbosa,Porto Alegre,Vestuário,Camiseta Tech,5,80.0,400.0,Concluído
+1136,2026-08-29,Beatriz Lima,Salvador,Eletrônicos,Monitor 27,5,1500.0,7500.0,Concluído
+1137,2026-05-04,Rafael Costa,Belo Horizonte,Eletrônicos,Tablet Air,1,2200.0,2200.0,Concluído
+1138,2026-04-28,Lucas Silva,Brasília,Acessórios,Teclado Mecânico,5,350.0,1750.0,Concluído
+1139,2026-06-22,Gabriel Souza,Belo Horizonte,Acessórios,Teclado Mecânico,4,350.0,1400.0,Pendente
+1140,2026-01-29,Pedro Santos,Brasília,Eletrônicos,Monitor 27,5,1500.0,7500.0,Concluído
+1141,2026-05-28,Beatriz Lima,Curitiba,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Concluído
+1142,2026-08-11,Pedro Santos,Rio de Janeiro,Vestuário,Jaqueta Impermeável,3,350.0,1050.0,Concluído
+1143,2026-03-22,Rodrigo Alves,São Paulo,Acessórios,Headset Gamer,1,400.0,400.0,Concluído
+1144,2026-01-28,Mariana Oliveira,Rio de Janeiro,Acessórios,Headset Gamer,2,400.0,800.0,Concluído
+1145,2026-05-22,Mariana Oliveira,Salvador,Vestuário,Jaqueta Impermeável,3,350.0,1050.0,Cancelado
+1146,2026-05-01,Aline Barbosa,Rio de Janeiro,Acessórios,Mouse Sem Fio,3,120.0,360.0,Concluído
+1147,2026-01-24,Gabriel Souza,São Paulo,Eletrônicos,Smartphone X,5,2800.0,14000.0,Pendente
+1148,2026-02-03,Fernanda Rocha,Brasília,Móveis,Mesa Stand-Desk,4,1800.0,7200.0,Concluído
+1149,2026-02-20,Thiago Ribeiro,Brasília,Acessórios,Headset Gamer,4,400.0,1600.0,Concluído
+1150,2026-01-12,Juliana Mendes,Salvador,Eletrônicos,Notebook Pro,5,4500.0,22500.0,Concluído
+1151,2026-04-15,Gabriel Souza,São Paulo,Vestuário,Camiseta Tech,3,80.0,240.0,Cancelado
+1152,2026-04-17,Mariana Oliveira,Salvador,Acessórios,Mouse Sem Fio,3,120.0,360.0,Concluído
+1153,2026-08-12,Lucas Silva,Rio de Janeiro,Móveis,Luminária LED,2,150.0,300.0,Cancelado
+1154,2026-03-03,Beatriz Lima,Rio de Janeiro,Vestuário,Tênis Confort,3,290.0,870.0,Concluído
+1155,2026-08-04,Rodrigo Alves,Brasília,Eletrônicos,Notebook Pro,1,4500.0,4500.0,Pendente
+1156,2026-08-13,Rodrigo Alves,Brasília,Eletrônicos,Monitor 27,3,1500.0,4500.0,Pendente
+1157,2026-05-02,Gabriel Souza,Belo Horizonte,Acessórios,Teclado Mecânico,5,350.0,1750.0,Concluído
+1158,2026-04-16,Pedro Santos,Porto Alegre,Vestuário,Tênis Confort,4,290.0,1160.0,Concluído
+1159,2026-01-28,Pedro Santos,Rio de Janeiro,Móveis,Mesa Stand-Desk,1,1800.0,1800.0,Concluído
+1160,2026-08-08,Pedro Santos,Porto Alegre,Vestuário,Jaqueta Impermeável,2,350.0,700.0,Pendente
+1161,2026-08-05,Camila Martins,Belo Horizonte,Vestuário,Jaqueta Impermeável,4,350.0,1400.0,Pendente
+1162,2026-06-09,Lucas Silva,Salvador,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Concluído
+1163,2026-05-27,Aline Barbosa,Belo Horizonte,Eletrônicos,Smartphone X,1,2800.0,2800.0,Pendente
+1164,2026-05-25,Lucas Silva,Salvador,Acessórios,Headset Gamer,4,400.0,1600.0,Concluído
+1165,2026-04-09,Rafael Costa,Salvador,Acessórios,Headset Gamer,3,400.0,1200.0,Concluído
+1166,2026-07-26,Aline Barbosa,Curitiba,Eletrônicos,Smartphone X,4,2800.0,11200.0,Concluído
+1167,2026-04-17,Camila Martins,Porto Alegre,Móveis,Luminária LED,2,150.0,300.0,Pendente
+1168,2026-07-02,Rafael Costa,Salvador,Móveis,Mesa Stand-Desk,1,1800.0,1800.0,Concluído
+1169,2026-02-20,Camila Martins,Curitiba,Eletrônicos,Notebook Pro,2,4500.0,9000.0,Concluído
+1170,2026-09-09,Lucas Silva,Rio de Janeiro,Eletrônicos,Monitor 27,3,1500.0,4500.0,Cancelado
+1171,2026-08-18,Rafael Costa,Porto Alegre,Eletrônicos,Smartphone X,4,2800.0,11200.0,Concluído
+1172,2026-06-20,Gabriel Souza,Porto Alegre,Vestuário,Camiseta Tech,5,80.0,400.0,Concluído
+1173,2026-06-05,Thiago Ribeiro,Porto Alegre,Vestuário,Tênis Confort,5,290.0,1450.0,Concluído
+1174,2026-08-21,Pedro Santos,Porto Alegre,Vestuário,Jaqueta Impermeável,1,350.0,350.0,Concluído
+1175,2026-05-10,Gabriel Souza,Salvador,Eletrônicos,Smartphone X,3,2800.0,8400.0,Concluído
+1176,2026-02-10,Gabriel Souza,Salvador,Móveis,Luminária LED,1,150.0,150.0,Concluído
+1177,2026-08-14,Camila Martins,Rio de Janeiro,Eletrônicos,Smartphone X,2,2800.0,5600.0,Concluído
+1178,2026-03-17,Pedro Santos,Belo Horizonte,Móveis,Cadeira Ergonômica,4,1100.0,4400.0,Concluído
+1179,2026-02-01,Rodrigo Alves,São Paulo,Móveis,Cadeira Ergonômica,2,1100.0,2200.0,Pendente
+1180,2026-08-15,Gabriel Souza,Curitiba,Vestuário,Camiseta Tech,1,80.0,80.0,Cancelado
+1181,2026-02-10,Thiago Ribeiro,São Paulo,Móveis,Cadeira Ergonômica,4,1100.0,4400.0,Pendente
+1182,2026-04-05,Juliana Mendes,Rio de Janeiro,Móveis,Mesa Stand-Desk,2,1800.0,3600.0,Pendente
+1183,2026-04-05,Aline Barbosa,Brasília,Eletrônicos,Smartphone X,2,2800.0,5600.0,Concluído
+1184,2026-01-01,Gabriel Souza,Salvador,Eletrônicos,Smartphone X,1,2800.0,2800.0,Concluído
+1185,2026-02-03,Pedro Santos,Porto Alegre,Eletrônicos,Monitor 27,3,1500.0,4500.0,Concluído
+1186,2026-02-01,Aline Barbosa,Curitiba,Acessórios,Headset Gamer,4,400.0,1600.0,Cancelado
+1187,2026-08-31,Aline Barbosa,Rio de Janeiro,Vestuário,Camiseta Tech,5,80.0,400.0,Concluído
+1188,2026-09-05,Juliana Mendes,São Paulo,Eletrônicos,Tablet Air,4,2200.0,8800.0,Concluído
+1189,2026-04-30,Rafael Costa,São Paulo,Móveis,Mesa Stand-Desk,3,1800.0,5400.0,Cancelado
+1190,2026-07-11,Beatriz Lima,Brasília,Vestuário,Jaqueta Impermeável,3,350.0,1050.0,Cancelado
+1191,2026-05-09,Rafael Costa,Curitiba,Móveis,Luminária LED,1,150.0,150.0,Pendente
+1192,2026-06-27,Juliana Mendes,Belo Horizonte,Eletrônicos,Notebook Pro,5,4500.0,22500.0,Cancelado
+1193,2026-02-02,Camila Martins,São Paulo,Acessórios,Mouse Sem Fio,2,120.0,240.0,Concluído
+1194,2026-02-07,Rodrigo Alves,Rio de Janeiro,Vestuário,Camiseta Tech,4,80.0,320.0,Concluído
+1195,2026-05-01,Gabriel Souza,Rio de Janeiro,Eletrônicos,Notebook Pro,4,4500.0,18000.0,Concluído
+1196,2026-06-11,Gabriel Souza,Brasília,Móveis,Luminária LED,1,150.0,150.0,Cancelado
+1197,2026-02-04,Beatriz Lima,Rio de Janeiro,Acessórios,Headset Gamer,2,400.0,800.0,Pendente
+1198,2026-06-18,Mariana Oliveira,Rio de Janeiro,Acessórios,Teclado Mecânico,4,350.0,1400.0,Pendente
+1199,2026-05-29,Mariana Oliveira,Brasília,Eletrônicos,Monitor 27,3,1500.0,4500.0,Concluído
+1200,2026-01-26,Thiago Ribeiro,São Paulo,Móveis,Cadeira Ergonômica,1,1100.0,1100.0,Concluído
