@@ -6,7 +6,10 @@ import os
 DB_FILE = "empresa.db"
 
 def get_connection():
-    return sqlite3.connect(DB_FILE)
+    if "db_conn" not in st.session_state:
+        # Banco mantido apenas na memória da sessão atual
+        st.session_state.db_conn = sqlite3.connect(":memory:", check_same_thread=False)
+    return st.session_state.db_conn
 
 def sanitize_column_name(col: str) -> str:
     col = str(col).strip().lower()
